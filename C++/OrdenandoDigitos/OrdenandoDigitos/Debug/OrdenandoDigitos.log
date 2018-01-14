@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  Source.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  OrdenandoDigitos.vcxproj -> D:\Users\A\Documents\Projects\CodingLearning\C++\OrdenandoDigitos\Debug\OrdenandoDigitos.exe
+  OrdenandoDigitos.vcxproj -> D:\Users\A\Documents\Projects\CodingLearning\C++\OrdenandoDigitos\Debug\OrdenandoDigitos.pdb (Partial PDB)

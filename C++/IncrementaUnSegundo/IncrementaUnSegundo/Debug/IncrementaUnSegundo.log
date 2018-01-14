@@ -1,0 +1,5 @@
+﻿  Source1.cpp
+  Source.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+Source1.obj : error LNK2005: _main already defined in Source.obj
+Source1.obj : error LNK2005: "int __cdecl main(void)" (?main@@$$HYAHXZ) already defined in Source.obj
+D:\Users\A\Documents\Projects\CodingLearning\C++\IncrementaUnSegundo\Debug\IncrementaUnSegundo.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  Source.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  MaximoRepetido.vcxproj -> D:\Users\A\Documents\Projects\CodingLearning\C++\MaximoRepetido\Debug\MaximoRepetido.exe
+  MaximoRepetido.vcxproj -> D:\Users\A\Documents\Projects\CodingLearning\C++\MaximoRepetido\Debug\MaximoRepetido.pdb (Partial PDB)
